@@ -1,0 +1,7 @@
+export const THEME = {
+    TEXT_COLOR: '#FFFFFF',
+    LINK_COLOR: '#005EA5',
+    PAGE_COLOR: '#F47738',
+    FOCUS_COLOR: '#FFBF47',
+    ERROR_COLOR: '#B10E1E'
+};
